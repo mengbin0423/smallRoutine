@@ -1,0 +1,11 @@
+{
+   "tWRZkDdeefa8H7pru/drqpHZhkfzo5P/XO0vm+DBHcw=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1539113322.562252,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1523345322.562256
+   }
+}
